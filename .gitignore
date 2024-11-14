@@ -1,0 +1,5 @@
+notebooks/Preprocessing.ipynb
+notebooks/Sentiment_assessment.ipynb
+notebooks/Topic_engine.ipynb
+.idea/*
+*.ipynb_checkpoints/*
