@@ -10,6 +10,10 @@
 Для отображения графиков в Submission.ipynb предлагается загрузить данный файл или
 посмотреть его в [Google Colab](https://colab.research.google.com/drive/1Pek_hC9RkzcJuixCyZrnpUNZxlUHZc_u?usp=sharing)
 
+Установка соответствующего окружения возможна с помощью файла conda-окружения **environment.yml**
+или с помощью окружения с версией python 3.10.14 и установленными зависимостями из **requirements.txt**
+
+
 **Реализованные модули:**
 
 1. `preprocessing.py` - модуль предобработки текстовых данных
