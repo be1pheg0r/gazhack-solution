@@ -7,6 +7,9 @@
 
 Блокнот, являющийся решением находится в **notebooks/Submission.ipynb**
 
+Для отображения графиков в Submission.ipynb предлагается загрузить данный файл или
+посмотреть его в [Google Colab](https://colab.research.google.com/drive/1Pek_hC9RkzcJuixCyZrnpUNZxlUHZc_u?usp=sharing)
+
 **Реализованные модули:**
 
 1. `preprocessing.py` - модуль предобработки текстовых данных
